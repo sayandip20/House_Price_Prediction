@@ -1,0 +1,5 @@
+[theme]
+base="dark"
+backgroundColor="#111827"
+[deprecation]
+showPyplotGlobalUse = false
